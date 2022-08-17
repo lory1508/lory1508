@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lory1508
 - 🏳️‍🌈 They/He
-- 👀 I’m interested in computer science, databases, data analysis and big data.
-- 🌱 I’m currently back to university to get my bachelor degree and specialize in big data 
+- 👀 I’m interested in computer science, databases, web development and web a11y aka web accessibility.
+- 🌱 I’m currently back to university to get my bachelor degree and specialize in web accessibility 
 - 📫 You can reach me via email at lorenzo.galassi91@gmail.com or on LinkedIn @lorenzogalassi91
 
 <!---
